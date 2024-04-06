@@ -144,7 +144,7 @@ footer {
 }
 
 @media (prefers-color-scheme: light) {
-     :root {
+    :root {
         color: #213547;
         background-color: #fff
     }
@@ -183,7 +183,7 @@ footer {
     body {
         padding: 10px
     }
-     :root {
+    :root {
         display: flex;
         justify-content: center;
         text-align: center
@@ -210,5 +210,3 @@ footer {
         justify-content: center
     }
 }
-
-f:\Escritorio\Programacion\proyectos 2024\APP compara precios\compara precios app\dist\assets f:\Escritorio\Programacion\proyectos 2024\APP compara precios\compara precios app\dist\index.htmlf:\Escritorio\Programacion\proyectos 2024\APP compara precios\compara precios app\dist\assets f:\Escritorio\Programacion\proyectos 2024\APP compara precios\compara precios app\dist\index.html
